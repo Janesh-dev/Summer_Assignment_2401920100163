@@ -1,3 +1,5 @@
+package Week_1.Day_3;
+
 class Solution {
     public int maxArea(int[] height) {
         int left = 0;

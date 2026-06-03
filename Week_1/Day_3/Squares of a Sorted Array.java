@@ -1,3 +1,5 @@
+package Week_1.Day_3;
+
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
